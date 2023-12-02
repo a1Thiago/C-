@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a1\\Documents\\Github\\C#\\Visual s Components\\Form1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E891E8F9-A963-4A69-992A-89F44CFE76A9}|Form_principal.csproj|c:\\users\\a1\\documents\\github\\c#\\visual s components\\form1\\form_checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E891E8F9-A963-4A69-992A-89F44CFE76A9}|Form_principal.csproj|solutionrelative:form_checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E891E8F9-A963-4A69-992A-89F44CFE76A9}|Form_principal.csproj|c:\\users\\a1\\documents\\github\\c#\\visual s components\\form1\\form_checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E891E8F9-A963-4A69-992A-89F44CFE76A9}|Form_principal.csproj|solutionrelative:form_checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_checkBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\a1\\Documents\\Github\\C#\\Visual s Components\\Form1\\Form_checkBox.cs",
+              "RelativeDocumentMoniker": "Form_checkBox.cs",
+              "ToolTip": "C:\\Users\\a1\\Documents\\Github\\C#\\Visual s Components\\Form1\\Form_checkBox.cs [Design]",
+              "RelativeToolTip": "Form_checkBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-02T06:20:58.886Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_checkBox.cs",
+              "DocumentMoniker": "C:\\Users\\a1\\Documents\\Github\\C#\\Visual s Components\\Form1\\Form_checkBox.cs",
+              "RelativeDocumentMoniker": "Form_checkBox.cs",
+              "ToolTip": "C:\\Users\\a1\\Documents\\Github\\C#\\Visual s Components\\Form1\\Form_checkBox.cs",
+              "RelativeToolTip": "Form_checkBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-02T06:22:58.565Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

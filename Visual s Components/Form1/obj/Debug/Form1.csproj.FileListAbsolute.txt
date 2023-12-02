@@ -1,0 +1,10 @@
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\bin\Debug\Form1.exe.config
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\bin\Debug\Form1.exe
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\bin\Debug\Form1.pdb
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form1.exe
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form1.pdb
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form1.F_Principal.resources

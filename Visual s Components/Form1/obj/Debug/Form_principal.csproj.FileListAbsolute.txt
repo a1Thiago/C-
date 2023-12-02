@@ -1,0 +1,13 @@
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\bin\Debug\Form1.exe.config
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\bin\Debug\Form1.exe
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\bin\Debug\Form1.pdb
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form_principal.csproj.AssemblyReference.cache
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form1.Form_principal.resources
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form1.Form_veiculos.resources
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form_principal.csproj.GenerateResource.cache
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form_principal.csproj.CoreCompileInputs.cache
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form1.exe
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form1.pdb
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form1.Form_checkBox.resources
+C:\Users\a1\Documents\Github\C#\Visual s Components\Form1\obj\Debug\Form1.Form_CheckedListBox.resources
